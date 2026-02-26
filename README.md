@@ -19,7 +19,7 @@ I live for knowledge graphs
 [![Wikidata][Wikidata]][Wikidata-url]
 
 
-##other databases
+## other databases
 
 
 [![MongoDB][MongoDB]][MongoDB-url]
