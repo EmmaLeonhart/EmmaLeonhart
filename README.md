@@ -7,10 +7,7 @@ I use GraphDB and am learning Apache Jenna Fuseki
 
 ### Databases & Knowledge Graphs:
 
-For Relational data, I use:
-[![Postgres][Postgres]][Postgres-url]
-[![SQLite][SQLite]][SQLite-url]
-& [![SQL][SQL]][SQL-url]
+
 
 For Graph & NoSQL data, I rely on:
 [![GraphDB][GraphDB]][GraphDB-url]
@@ -21,11 +18,21 @@ For Graph & NoSQL data, I rely on:
 For Semantic Web & RDF Triplestores:
 [![Apache Jena][Jena]][Jena-url]
 
+
 ### Infrastructure & DevOps:
 [![Docker][Docker]][Docker-url]
 [![Kubernetes][K8s]][K8s-url]
 
-### Legacy Engines & Open Source:
+##Relational data
+
+For Relational data, I use:
+[![Postgres][Postgres]][Postgres-url]
+[![SQLite][SQLite]][SQLite-url]
+& [![SQL][SQL]][SQL-url]
+
+
+
+### AI agents:
 [![OpenClaw][OpenClaw]][OpenClaw-url]
 
 ### Programming Languages:
