@@ -55,10 +55,8 @@ For Relational data, I use:
 ### CI/CD & Cloud Orchestration:
 
 [![Azure DevOps][AzureDevOps]][AzureDevOps-url]
-
 [![Docker][Docker]][Docker-url]
-
-& [![Kubernetes][K8s]][K8s-url]
+[![Kubernetes][K8s]][K8s-url]
 
 
 
