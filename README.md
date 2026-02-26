@@ -19,11 +19,13 @@ I live for knowledge graphs
 [![Wikidata][Wikidata]][Wikidata-url]
 
 
-For Graph & NoSQL data, I rely on:
+##other databases
 
 
 [![MongoDB][MongoDB]][MongoDB-url]
 
+[![SQL][SQL]][SQL-url]
+[![SQLite][SQLite]][SQLite-url]
 
 For Semantic Web & RDF Triplestores:
 
@@ -36,8 +38,6 @@ For Semantic Web & RDF Triplestores:
 ##Relational data
 
 For Relational data, I use:
-[![SQL][SQL]][SQL-url]
-[![SQLite][SQLite]][SQLite-url]
 
 
 
