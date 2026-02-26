@@ -35,10 +35,6 @@ For Semantic Web & RDF Triplestores:
 [![Docker][Docker]][Docker-url]
 [![Kubernetes][K8s]][K8s-url]
 
-##Relational data
-
-For Relational data, I use:
-
 
 
 
