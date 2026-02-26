@@ -45,6 +45,21 @@ For Semantic Web & RDF Triplestores:
 & [![Kubernetes][K8s]][K8s-url]
 
 
+### Knowledge Engineering:
+[![Protégé][Protege]][Protege-url]
+[![Wikidata][Wikidata]][Wikidata-url]
+[![Wikipedia][Wikipedia]][Wikipedia-url]
+
+[Protege]: https://img.shields.io/badge/Protégé-8CAAE6?style=for-the-badge&logo=stanford&logoColor=white
+[Protege-url]: https://protege.stanford.edu/
+
+[Wikidata]: https://img.shields.io/badge/Wikidata-990000?style=for-the-badge&logo=wikidata&logoColor=white
+[Wikidata-url]: https://www.wikidata.org/
+
+[Wikipedia]: https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white
+[Wikipedia-url]: https://www.wikipedia.org/
+
+
 
 [CSharp]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 
