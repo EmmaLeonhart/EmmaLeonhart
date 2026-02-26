@@ -9,17 +9,22 @@ I use GraphDB and am learning Apache Jenna Fuseki
 
 
 I live for knowledge graphs
+
 [![GraphDB][GraphDB]][GraphDB-url]
 [![SPARQL][SPARQL]][SPARQL-url]
 [![Apache Jena][Jena]][Jena-url]
 
+[![RDF][RDF]][RDF-url]
+[![OWL][OWL]][OWL-url]
+[![Protégé][Protege]][Protege-url]
+[![Wikidata][Wikidata]][Wikidata-url]
 
 
 For Graph & NoSQL data, I rely on:
 
-[![Neo4j][Neo4j]][Neo4j-url]
+
 [![MongoDB][MongoDB]][MongoDB-url]
-& 
+
 
 For Semantic Web & RDF Triplestores:
 
@@ -58,17 +63,6 @@ For Relational data, I use:
 & [![Kubernetes][K8s]][K8s-url]
 
 
-### Knowledge Engineering:
-[![Protégé][Protege]][Protege-url]
-[![Wikidata][Wikidata]][Wikidata-url]
-[![Wikipedia][Wikipedia]][Wikipedia-url]
-
-
-### Semantic Web Standards & Modeling:
-[![RDF][RDF]][RDF-url]
-[![OWL][OWL]][OWL-url]
-[![Protégé][Protege]][Protege-url]
-[![SPARQL][SPARQL]][SPARQL-url]
 
 ### Knowledge Graphs & Linked Data:
 [![Wikidata][Wikidata]][Wikidata-url]
