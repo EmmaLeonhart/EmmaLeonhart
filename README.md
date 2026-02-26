@@ -2,8 +2,7 @@
 
 My name is Emma and I live for knowledge graphs
 
-I use GraphDB and am learning Apache Jenna Fuseki
-
+My passion is authority control. 
 
 ### Databases & Knowledge Graphs:
 
