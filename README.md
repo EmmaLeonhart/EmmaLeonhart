@@ -36,9 +36,10 @@ For Semantic Web & RDF Triplestores:
 ##Relational data
 
 For Relational data, I use:
-[![Postgres][Postgres]][Postgres-url]
+[![SQL][SQL]][SQL-url]
+
 [![SQLite][SQLite]][SQLite-url]
-& [![SQL][SQL]][SQL-url]
+
 
 
 
