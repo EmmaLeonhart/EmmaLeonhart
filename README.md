@@ -66,7 +66,6 @@ For Relational data, I use:
 
 ### Knowledge Graphs & Linked Data:
 [![Wikidata][Wikidata]][Wikidata-url]
-[![Wikipedia][Wikipedia]][Wikipedia-url]
 [![Apache Jena][Jena]][Jena-url]
 
 [Protege]: https://img.shields.io/badge/Protégé-8CAAE6?style=for-the-badge&logo=stanford&logoColor=white
