@@ -37,7 +37,6 @@ For Semantic Web & RDF Triplestores:
 
 For Relational data, I use:
 [![SQL][SQL]][SQL-url]
-
 [![SQLite][SQLite]][SQLite-url]
 
 
@@ -49,8 +48,7 @@ For Relational data, I use:
 ### Programming Languages:
 
 [![C#][CSharp]][CSharp-url]
-
-& [![Python][Python]][Python-url]
+[![Python][Python]][Python-url]
 
 
 
