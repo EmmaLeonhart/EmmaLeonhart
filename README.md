@@ -28,6 +28,15 @@ For Semantic Web & RDF Triplestores:
 ### Legacy Engines & Open Source:
 [![OpenClaw][OpenClaw]][OpenClaw-url]
 
+[Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com/
+
+[K8s]: https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
+[K8s-url]: https://kubernetes.io/
+
+[OpenClaw]: https://img.shields.io/badge/OpenClaw-FF4500?style=for-the-badge&logo=github&logoColor=white
+[OpenClaw-url]: https://github.com/OpenClaw/OpenClaw
+
 [Postgres]: https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
 [Postgres-url]: https://www.postgresql.org/
 
