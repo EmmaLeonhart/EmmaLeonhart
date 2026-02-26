@@ -50,6 +50,18 @@ For Semantic Web & RDF Triplestores:
 [![Wikidata][Wikidata]][Wikidata-url]
 [![Wikipedia][Wikipedia]][Wikipedia-url]
 
+
+### Semantic Web Standards & Modeling:
+[![RDF][RDF]][RDF-url]
+[![OWL][OWL]][OWL-url]
+[![Protégé][Protege]][Protege-url]
+[![SPARQL][SPARQL]][SPARQL-url]
+
+### Knowledge Graphs & Linked Data:
+[![Wikidata][Wikidata]][Wikidata-url]
+[![Wikipedia][Wikipedia]][Wikipedia-url]
+[![Apache Jena][Jena]][Jena-url]
+
 [Protege]: https://img.shields.io/badge/Protégé-8CAAE6?style=for-the-badge&logo=stanford&logoColor=white
 [Protege-url]: https://protege.stanford.edu/
 
@@ -59,7 +71,26 @@ For Semantic Web & RDF Triplestores:
 [Wikipedia]: https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white
 [Wikipedia-url]: https://www.wikipedia.org/
 
+[RDF]: https://img.shields.io/badge/RDF-005A9C?style=for-the-badge&logo=w3c&logoColor=white
+[RDF-url]: https://www.w3.org/RDF/
 
+[OWL]: https://img.shields.io/badge/OWL2-FFD700?style=for-the-badge&logo=w3c&logoColor=black
+[OWL-url]: https://www.w3.org/TR/owl2-overview/
+
+[Protege]: https://img.shields.io/badge/Protégé-8CAAE6?style=for-the-badge&logo=stanford&logoColor=white
+[Protege-url]: https://protege.stanford.edu/
+
+[SPARQL]: https://img.shields.io/badge/SPARQL-336699?style=for-the-badge&logo=semantic-web&logoColor=white
+[SPARQL-url]: https://www.w3.org/TR/sparql11-query/
+
+[Wikidata]: https://img.shields.io/badge/Wikidata-990000?style=for-the-badge&logo=wikidata&logoColor=white
+[Wikidata-url]: https://www.wikidata.org/
+
+[Wikipedia]: https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white
+[Wikipedia-url]: https://www.wikipedia.org/
+
+[Jena]: https://img.shields.io/badge/Apache_Jena-602E83?style=for-the-badge&logo=apache&logoColor=white
+[Jena-url]: https://jena.apache.org/
 
 [CSharp]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 
