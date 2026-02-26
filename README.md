@@ -21,6 +21,13 @@ For Graph & NoSQL data, I rely on:
 For Semantic Web & RDF Triplestores:
 [![Apache Jena][Jena]][Jena-url]
 
+### Infrastructure & DevOps:
+[![Docker][Docker]][Docker-url]
+[![Kubernetes][K8s]][K8s-url]
+
+### Legacy Engines & Open Source:
+[![OpenClaw][OpenClaw]][OpenClaw-url]
+
 [Postgres]: https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
 [Postgres-url]: https://www.postgresql.org/
 
