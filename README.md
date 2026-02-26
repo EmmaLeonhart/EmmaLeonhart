@@ -5,6 +5,15 @@ My name is Emma and I live for knowledge graphs
 I use GraphDB and am learning Apache Jenna Fuseki
 
 
+For back end:
+[![Postgres][Postgres]][Postgres-url]
+[![SQL][SQL]][SQLUrl]
+[![Docker][Docker]][Docker-url], 
+&& [![Py][Py]][PyUrl] with 
+[![Psycog2][Psycog2]][Psycog2-url]
+&
+[![Flask][Flask]][Flask-Url]
+
 
 <!--
 **Emma-Leonhart/Emma-Leonhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
