@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-My name is Emma and I live for graphs
+My name is Emma and I live for knowledge graphs
+
+I use GraphDB and am learning Apache Jenna Fuseki
+
+
 
 <!--
 **Emma-Leonhart/Emma-Leonhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
