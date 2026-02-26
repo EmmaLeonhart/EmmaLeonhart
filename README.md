@@ -8,15 +8,21 @@ I use GraphDB and am learning Apache Jenna Fuseki
 ### Databases & Knowledge Graphs:
 
 
+I live for knowledge graphs
+[![GraphDB][GraphDB]][GraphDB-url]
+[![SPARQL][SPARQL]][SPARQL-url]
+[![Apache Jena][Jena]][Jena-url]
+
+
 
 For Graph & NoSQL data, I rely on:
-[![GraphDB][GraphDB]][GraphDB-url]
+
 [![Neo4j][Neo4j]][Neo4j-url]
 [![MongoDB][MongoDB]][MongoDB-url]
-& [![SPARQL][SPARQL]][SPARQL-url]
+& 
 
 For Semantic Web & RDF Triplestores:
-[![Apache Jena][Jena]][Jena-url]
+
 
 
 ### Infrastructure & DevOps:
