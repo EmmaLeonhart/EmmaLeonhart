@@ -28,6 +28,52 @@ For Semantic Web & RDF Triplestores:
 ### Legacy Engines & Open Source:
 [![OpenClaw][OpenClaw]][OpenClaw-url]
 
+### Programming Languages:
+
+[![C#][CSharp]][CSharp-url]
+
+& [![Python][Python]][Python-url]
+
+
+
+### CI/CD & Cloud Orchestration:
+
+[![Azure DevOps][AzureDevOps]][AzureDevOps-url]
+
+[![Docker][Docker]][Docker-url]
+
+& [![Kubernetes][K8s]][K8s-url]
+
+
+
+[CSharp]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+
+[CSharp-url]: https://learn.microsoft.com/en-us/dotnet/csharp/
+
+
+
+[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+
+[Python-url]: https://www.python.org/
+
+
+
+[AzureDevOps]: https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white
+
+[AzureDevOps-url]: https://azure.microsoft.com/en-us/products/devops/
+
+
+
+[Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+
+[Docker-url]: https://www.docker.com/
+
+
+
+[K8s]: https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
+
+[K8s-url]: https://kubernetes.io/
+
 [Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
 
