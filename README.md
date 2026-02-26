@@ -31,7 +31,9 @@ For Semantic Web & RDF Triplestores:
 
 
 
-### Infrastructure & DevOps:
+### CI/CD & Cloud Orchestration:
+
+[![Azure DevOps][AzureDevOps]][AzureDevOps-url]
 [![Docker][Docker]][Docker-url]
 [![Kubernetes][K8s]][K8s-url]
 
@@ -48,11 +50,7 @@ For Semantic Web & RDF Triplestores:
 
 
 
-### CI/CD & Cloud Orchestration:
 
-[![Azure DevOps][AzureDevOps]][AzureDevOps-url]
-[![Docker][Docker]][Docker-url]
-[![Kubernetes][K8s]][K8s-url]
 
 
 
