@@ -2,6 +2,8 @@
 
 My name is Emma and I live for knowledge graphs
 
+Read my vibecoding tutorial here https://github.com/Emma-Leonhart/vibecoding-tutorial and use my vibecoding documentation bootstrapper here https://github.com/Emma-Leonhart/cleanvibe
+
 My passion is authority control. 
 
 ### Databases & Knowledge Graphs:
