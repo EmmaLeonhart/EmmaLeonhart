@@ -49,6 +49,7 @@ For Semantic Web & RDF Triplestores:
 
 [![C#][CSharp]][CSharp-url]
 [![Python][Python]][Python-url]
+[![Rust][Rust]][Rust-url]
 
 
 
@@ -99,6 +100,10 @@ For Semantic Web & RDF Triplestores:
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
 [Python-url]: https://www.python.org/
+
+[Rust]: https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white
+
+[Rust-url]: https://www.rust-lang.org/
 
 
 
