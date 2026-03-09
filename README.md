@@ -2,7 +2,7 @@
 
 My name is Emma and my passion is neuro-symbolic ai.
 
-Read my vibecoding tutorial here https://github.com/Emma-Leonhart/vibecoding-tutorial and use my vibecoding documentation bootstrapper here https://github.com/Emma-Leonhart/cleanvibe
+Read my vibecoding tutorial here https://github.com/EmmaLeonhart/vibecoding-tutorial and use my vibecoding documentation bootstrapper here https://github.com/EmmaLeonhart/cleanvibe
 
 I love authority control
 
