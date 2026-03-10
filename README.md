@@ -3,7 +3,7 @@
 My name is Emma and my passion is neuro-symbolic ai.
 
 
-Read my website here https://emmaleonhart.com
+Read my website here http://emmaleonhart.com
 
 Read my vibecoding tutorial here https://github.com/EmmaLeonhart/vibecoding-tutorial and use my vibecoding documentation bootstrapper here https://github.com/EmmaLeonhart/cleanvibe
 
