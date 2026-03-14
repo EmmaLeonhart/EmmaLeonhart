@@ -23,7 +23,6 @@ I live for knowledge graphs
 
 ### Other Databases:
 
-[![CosmosDB][CosmosDB]][CosmosDB-url]
 [![MongoDB][MongoDB]][MongoDB-url]
 [![SQL][SQL]][SQL-url]
 [![SQLite][SQLite]][SQLite-url]
