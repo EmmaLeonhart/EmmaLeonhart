@@ -23,28 +23,14 @@ I live for knowledge graphs
 [![Protégé][Protege]][Protege-url]
 [![Wikidata][Wikidata]][Wikidata-url]
 
-### Other Databases:
 
-[![MongoDB][MongoDB]][MongoDB-url]
-[![SQL][SQL]][SQL-url]
-[![SQLite][SQLite]][SQLite-url]
 
-### CI/CD & Cloud Orchestration:
-
-[![Azure DevOps][AzureDevOps]][AzureDevOps-url]
-[![Docker][Docker]][Docker-url]
-[![Kubernetes][K8s]][K8s-url]
-
-### AI Agents:
-
-[![OpenClaw][OpenClaw]][OpenClaw-url]
 
 ### Programming Languages:
 
 [![C#][CSharp]][CSharp-url]
 [![Python][Python]][Python-url]
 [![Rust][Rust]][Rust-url]
-[![Go][Go]][Go-url]
 
 ---
 
