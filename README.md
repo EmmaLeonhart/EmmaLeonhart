@@ -9,19 +9,7 @@ Read my vibecoding tutorial here https://github.com/EmmaLeonhart/vibecoding-tuto
 
 Use my database here https://github.com/EmmaLeonhart/SutraDB
 
-I love authority control
-
-### Databases & Knowledge Graphs:
-
-I live for knowledge graphs
-
-[![GraphDB][GraphDB]][GraphDB-url]
-[![SPARQL][SPARQL]][SPARQL-url]
-[![Apache Jena][Jena]][Jena-url]
-[![RDF][RDF]][RDF-url]
-[![OWL][OWL]][OWL-url]
-[![Protégé][Protege]][Protege-url]
-[![Wikidata][Wikidata]][Wikidata-url]
+Use my programming language here https://github.com/EmmaLeonhart/Sutra
 
 
 
