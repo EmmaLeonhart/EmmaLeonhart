@@ -1,0 +1,51 @@
+name: Sync README from emmaleonhart.com
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  SOURCE_REPO: EmmaLeonhart/emmaleonhart.com
+  SOURCE_BRANCH: master
+  SOURCE_PATH: github_bio/readme.md
+  DEST_PATH: README.md
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Checkout website repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ env.SOURCE_REPO }}
+          ref: ${{ env.SOURCE_BRANCH }}
+          path: _source
+
+      - name: Copy file
+        run: |
+          if [ ! -f "_source/${SOURCE_PATH}" ]; then
+            echo "Source file _source/${SOURCE_PATH} does not exist in ${SOURCE_REPO}@${SOURCE_BRANCH}."
+            echo "Create it in the website repo to enable syncing."
+            exit 1
+          fi
+          cp "_source/${SOURCE_PATH}" "${DEST_PATH}"
+          rm -rf _source
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- "${DEST_PATH}"; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git add "${DEST_PATH}"
+          git commit -m "chore: sync ${DEST_PATH} from ${SOURCE_REPO}/${SOURCE_PATH}"
+          git push
