@@ -10,7 +10,7 @@ permissions:
 
 env:
   SOURCE_REPO: EmmaLeonhart/emmaleonhart.com
-  SOURCE_BRANCH: master
+  SOURCE_BRANCH: main
   SOURCE_PATH: github_bio/readme.md
   DEST_PATH: README.md
 
