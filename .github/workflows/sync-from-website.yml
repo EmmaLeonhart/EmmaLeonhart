@@ -9,6 +9,7 @@ permissions:
   contents: write
 
 env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
   SOURCE_REPO: EmmaLeonhart/emmaleonhart.com
   SOURCE_BRANCH: main
   SOURCE_PATH: github_bio/readme.md
