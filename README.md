@@ -2,8 +2,6 @@
 
 I'm Emma, a self-taught deep-tech founder building **[Topaz](https://topazcomputing.com)**: context management for people running a staff team of AI agents. It is an ERP for agents rather than for humans, planning and records and issue tracking fused into one structured workspace the agents work from instead of a chat window, delivered as a hosted box running persistent agents against your own repositories. I built this without a PhD or a lab, on the strength of the work ([the founder story is here](https://topazcomputing.com/story)).
 
-I treat this as a venture, not a side project. **Sutra**, my own language whose programs are vector symbolic architecture (VSA) operations compiled to tensor arithmetic, is published with a paper and closed at v1.1.0; it is separate work, not what Topaz sells. The usual deep-tech founder has a doctorate and an easy fallback and hedges accordingly; I have neither and I'm not building one. I went in clear-eyed about what I was giving up and committed anyway. Most of what I ship is driven by AI coding agents working inside my own scaffolding ([cleanvibe](https://github.com/EmmaLeonhart/cleanvibe)), with the judgment to know when to take the wheel. Since March 2026 I have been shipping at a pace I did not know I had, across dozens of repositories.
-
 ### What I'm working on
 
 - **Sutra**: my embedding-native language, public with a paper on arXiv ([arXiv:2605.20919](https://arxiv.org/abs/2605.20919)). Programs are vector symbolic architecture (VSA) operations (bind, unbind, bundle) compiled to straight-line tensor ops and round-tripped back to verifiable source. [site](https://sutra.topazcomputing.com) · [source](https://github.com/EmmaLeonhart/Sutra)
