@@ -13,6 +13,13 @@ I'm Emma, a self-taught deep-tech founder building **[Topaz](https://topazcomput
 - **Website** (canonical home for projects, research, and interactive tools): https://emmaleonhart.com
 - **LinkedIn**: https://www.linkedin.com/in/emmahleonhart/
 - **Google Scholar**: https://scholar.google.com/citations?user=kiJ9hGYAAAAJ
+- **ORCID**: https://orcid.org/0009-0005-9281-1867
+- **arXiv**: https://arxiv.org/a/leonhart_e_1
+- **Hugging Face**: https://huggingface.co/EmmaLeonhart
+- **Substack**: https://blog.emmaleonhart.com/
+- **LessWrong**: https://www.lesswrong.com/users/emma-leonhart
+- **X**: https://x.com/EmmaNoMikoto
+- **YouTube**: https://www.youtube.com/@EmmaNoMikoto
 - **More projects** (Loka, QueryKey, Alignment, Latent Space Cartography, Reservoir): https://emmaleonhart.com/projects/
 
 ### Programming Languages
